@@ -1,4 +1,4 @@
-# Code-Along 12.1 - Big O Analysis and Caching
+# Big O Analysis and Caching
 
 ## Requirements
 
@@ -11,4 +11,4 @@
 
 **NOTE:**
 
-These challenges can be loaded in [Code Signal](https://codesignal.com/), if you'd prefer to practice using their platform instead of local tools.
+Used dynamic programming to speed up calculations by storing the results of previously calculated results in a cache. This significantly reduces the time complexity of the algorithm from exponential O(2^n) to linear O(n).
